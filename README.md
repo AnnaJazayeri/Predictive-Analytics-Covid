@@ -5,10 +5,14 @@ Project: Predictive Analysis of COVID-19 Dataset
 Introduction The outbreak of COVID-19 has had a profound impact on global health and society. Understanding the patterns and trends in COVID-19 cases is crucial for public health decision-making. This project aims to perform predictive analysis on the COVID-19 dataset obtained from the Canada statistics website. (Statistics Canada) The dataset comprises 1,048,576 rows and 9 columns, containing information about cases, regions, episode weeks, gender, age groups, hospitalization status, and deaths. (Statistics Canada)
 
 Objectives
-  The primary objectives of this project are as follows:
-  To analyze the trends and patterns of COVID-19 cases in different regions of Canada over time.
-  To perform linear or non-linear regression analysis to predict future COVID-19 cases based on historical data.
-  To explore the impact of gender, age groups, hospitalization status, and deaths on COVID-19 cases.
+
+The primary objectives of this project are as follows:
+
+  * To analyze the trends and patterns of COVID-19 cases in different regions of Canada over time.
+  
+  * To perform linear or non-linear regression analysis to predict future COVID-19 cases based on historical data.
+  
+  * To explore the impact of gender, age groups, hospitalization status, and deaths on COVID-19 cases.
   
 Potential Questions to Address Throughout the project, I am going to address the following questions:
 Predicting Hospitalization Status: • Can I build a regression model to predict a person's likelihood of being hospitalized based on their age group and gender? • How does the episode week or year correlate with the likelihood of hospitalization?
