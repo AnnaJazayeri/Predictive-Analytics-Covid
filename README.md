@@ -65,3 +65,10 @@ Hypothesis Testing:
 This project will be implemented using Python, leveraging libraries such as Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn for data manipulation, visualization, and modeling.
 ##### Expected Outcomes 
 By the end of this project, we expect to achieve the following outcomes: • A comprehensive understanding of the COVID-19 dataset and its characteristics. • Insights into the temporal and regional trends of COVID-19 cases. • Accurate predictions of future COVID-19 cases based on regression analysis. • Statistical evidence regarding the impact of gender, age groups, hospitalization status, and deaths on COVID-19 cases.
+
+##### Works Cited:
+
+Statistics Canada. Preliminary dataset on confirmed cases of COVID-19, Public Health Agency of Canada. 21 July 2023. CSV file dataset. 29 September 2023. <https://www150.statcan.gc.ca/n1/pub/13-26-0003/132600032020001-eng.htm>.
+
+—. User Guide and Data Dictionary for Preliminary COVID-19 Data. 13 January 2023. Webpage. 29 September 2023. <https://www150.statcan.gc.ca/n1/pub/13-26-0002/132600022020001-eng.htm>.
+
