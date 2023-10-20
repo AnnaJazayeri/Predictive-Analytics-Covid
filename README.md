@@ -1,6 +1,7 @@
-dataset size is quite big, download dataset file from this link: https://www150.statcan.gc.ca/n1/pub/13-26-0003/2020001/COVID19-eng.zip
+Dataset size is quite big, download dataset file from this link: https://www150.statcan.gc.ca/n1/pub/13-26-0003/2020001/COVID19-eng.zip
 
 ##### Project: Predictive Analysis of COVID-19 Dataset
+##### Proposal
 
 ##### Introduction
 
@@ -51,20 +52,29 @@ Data Preprocessing:
 * Data Exploration: Visualize and summarize the dataset.
 
 Exploratory Data Analysis (EDA):
-* Analyze trends in COVID-19 cases over time. • Compare COVID-19 cases across different regions.
+* Analyze trends in COVID-19 cases over time.
+* Compare COVID-19 cases across different regions.
 * Explore the distribution of cases by age group, gender, hospitalization status, and deaths.
   
 Predictive Modeling:
 * Select appropriate regression techniques (linear or non-linear) to predict future COVID-19 cases.
-* Train and evaluate regression models. • Use time series analysis if necessary to capture temporal dependencies.
+* Train and evaluate regression models.
+* Use time series analysis if necessary to capture temporal dependencies.
   
 Hypothesis Testing:
 * Test hypotheses related to the impact of gender, age groups, hospitalization status, and deaths on COVID-19 cases.
 
 ##### Tools and Technologies 
+
 This project will be implemented using Python, leveraging libraries such as Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn for data manipulation, visualization, and modeling.
+
 ##### Expected Outcomes 
-By the end of this project, we expect to achieve the following outcomes: • A comprehensive understanding of the COVID-19 dataset and its characteristics. • Insights into the temporal and regional trends of COVID-19 cases. • Accurate predictions of future COVID-19 cases based on regression analysis. • Statistical evidence regarding the impact of gender, age groups, hospitalization status, and deaths on COVID-19 cases.
+
+By the end of this project, I expect to achieve the following outcomes:
+* A comprehensive understanding of the COVID-19 dataset and its characteristics.
+* Insights into the temporal and regional trends of COVID-19 cases.
+* Accurate predictions of future COVID-19 cases based on regression analysis.
+* Statistical evidence regarding the impact of gender, age groups, hospitalization status, and deaths on COVID-19 cases.
 
 ##### Works Cited:
 
